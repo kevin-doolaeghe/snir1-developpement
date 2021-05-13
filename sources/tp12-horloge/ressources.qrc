@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/logo_jr.png</file>
+        <file>images/fond.png</file>
+    </qresource>
+</RCC>

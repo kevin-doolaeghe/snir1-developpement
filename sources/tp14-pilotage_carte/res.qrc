@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/CImp USB 8055.jpg</file>
+        <file>images/Inter0.bmp</file>
+        <file>images/Inter1.bmp</file>
+        <file>images/Led jaune.png</file>
+        <file>images/Led orange.png</file>
+        <file>images/Led rouge.png</file>
+        <file>images/Led verte.png</file>
+        <file>images/Led1.png</file>
+        <file>images/fond.jpg</file>
+        <file>images/Logo_JR.png</file>
+    </qresource>
+</RCC>
